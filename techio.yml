@@ -1,18 +1,11 @@
 title : PHP template
 
-    
-    # Table of content
-    plan:
+# Table of content
+plan:
   - title: PHP on Tech.io
     statement: markdowns/welcome.md
   - title: Introduction
     statement: markdowns/intro.md
-  - title: Transformation 
-    statement: markdowns/transform.md
-  - title: Colors
-    statement: markdowns/color.md
-  - title: Filtering
-    statement: markdowns/edge.md
     
 projects:
   first-project:
