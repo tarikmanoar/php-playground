@@ -1,10 +1,10 @@
 title : PHP template
-plan:
-  - title: PHP on Tech.io
-    statement: markdowns/welcome.md
+
     
     # Table of content
-plan:
+    plan:
+  - title: PHP on Tech.io
+    statement: markdowns/welcome.md
   - title: Introduction
     statement: markdowns/intro.md
   - title: Transformation 
