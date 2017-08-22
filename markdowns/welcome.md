@@ -2,6 +2,12 @@
 
 I made this alien. This PHP template lets you get started quickly with a simple working example in PHP. If this is your first contribution, you should have a look at the [Getting Started](https://tech.io/doc/getting-started-create-playground) guide.
 
+?[What is the answer to Life, the Universe and Everything?]
+-[ ] There is no answer to that!
+-[ ] Sleep and eat
+-[x] Easy, this is 42
+-[ ] Peace & Love
+
 
 The source code is on [GitHub](https://github.com/TechDotIO/php-template), please feel free to come up with proposals to improve it.
 
