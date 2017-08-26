@@ -13,4 +13,7 @@
 
 @[Try Some PHP?]({"stubs": ["Universe.php"], "command": "/bin/bash run.sh"})
 
+# Currently I'm Building this playground.. 
+
+## i'm gonna start from php core in a words to help those who want to attent on some php challenge.
 
