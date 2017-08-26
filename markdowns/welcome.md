@@ -1,5 +1,6 @@
 # Welcome!
 
+>> You will find many quiz & code challenge for PHP Practise
 
 # 1-QUIZ
 ?[Which is the Bitwise Operator ?]
