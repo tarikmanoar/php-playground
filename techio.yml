@@ -4,8 +4,6 @@ title : PHP template
 plan:
   - title: PHP on Tech.io
     statement: markdowns/welcome.md
-  - title: Introduction
-    statement: markdowns/intro.md
     
 projects:
   first-project:
