@@ -1,6 +1,12 @@
-# Welcome!
+# Welcome! to Self Made Playground
 
->> You will find many quiz & code challenge for PHP Practise
+> You will find many quiz & code challenge for Better PHP Practise
+- [x] You will find QUIZ
+- [x] You will find Hints
+- [x] You will guided in every Steps
+- [ ] But you have walk your road all Alone
+
+
 
 # 1-QUIZ
 ?[Which is the Bitwise Operator ?]
@@ -15,11 +21,18 @@
 -[ ] ^^
 -[x] !
 
+Logical Operator | Bitwise Operator
+------------ | -------------
+&& [AND] | & [AND]
+! [NOT] | ^ [Xor (exclusive or)]
+xor [XOr] | ~ [NOT]
+ EMPTY | << [Shift left]
+ EMPTY | >> [Shift right]
+
+@[Challenge - 1: Complete This Challenge ~ Answer is in Github Gist]({"stubs": ["Universe.php"], "command": "/bin/bash run.sh"})
 
 
-@[Try Some PHP?]({"stubs": ["Universe.php"], "command": "/bin/bash run.sh"})
+# Currently I'm Building this playground... on processing 
 
-# Currently I'm Building this playground.. 
-
-## i'm gonna start from php core in a words to help those who want to attent on some php challenge.
+## i'm gonna start create Challenge & Quiz from php core. In a words to help those who want to attend on MY PHP BOOTCAMP :D.
 
