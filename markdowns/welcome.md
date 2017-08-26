@@ -1,13 +1,18 @@
 # Welcome!
 
 
-
-?[What is the answer to Life, the Universe and Everything?]
+# 1-QUIZ
+?[Which is the Bitwise Operator ?]
 -[ ] There is no answer to that!
--[ ] Sleep and eat
--[x] Easy, this is 42
--[ ] Peace & Love
-
+-[x] &
+-[ ] ^^
+-[ ] !
+# 2-QUIZ
+?[Which is the Logical Operator ?]
+-[ ] There is no answer to that!
+-[ ] &
+-[ ] ^^
+-[x] !
 
 
 
