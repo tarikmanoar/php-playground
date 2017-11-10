@@ -1,23 +1,24 @@
-# Welcome! to My Self Made Playground
+# প্রথমেই আপনাকে ধন্যবাদ পি.এস.পি শেখার জন্য , এর পরের অভিনন্দন তা আমার প্লে-গ্রাউন্ড এ হানা দেয়ার জন্য।
 
-> You will find many quiz & code challenge for Better PHP Practise
->> You will find QUIZ
->> [x] You will find Hints
->> [x] You will guided in every Steps
->> [ ] But you have walk your road all Alone
+> আপনাকে প্রথমেই যে বিষয় টা আমি বলতে চাই তা হচ্ছে এই প্লে গ্রাউন্ড এর জন্য যে কোন প্রকার রিভিউ আপনি কষ্ট করে দিবেন।
+> দরকার হলে গিঠাব এর রিপো তেও আপনার সাজেশন আপনি দিতে পারেন।
+> এখানে মুলত পাওয়া যাবে বিভিন্ন কুইজ এবং চ্যালেঞ্জ যা আপনাকে একজন পিএসপি প্রোগ্রামার হতে সাহাজ্য করবে। 
 
+>> প্রতিদিন ৩০% সময় শিখলে, আপনি ৭০% সময় সেটা প্রাকটিস এবং সেটাকে নতুন ভাবে সাথে নিজের আইডিয়া দিয়ে কিছু করার চেষ্টা করুন। 
+>> [x] আপনি এখানে বিভিন্ন হিন্টস পাবেন।
+>> [x] প্রতিটা পদক্ষেপে আপনাকে সাহাজ্য করা হবে।
+>> [ ] কিন্তু কিছু কঠিন সময়ে অবশ্যই আপনাকে একা পথ চলতে হবে।
 
-
-# 1-QUIZ
-?[Which is the Bitwise Operator ?]
--[ ] There is no answer to that!
+# কুইজ নংঃ ১
+?[নিচের কোনটি বিটওয়াইস অপারেটর ?]
+-[ ] কোনটিই নয় !
 -[x] &
 -[ ] ^^
 -[ ] !
-# 2-QUIZ
-?[Which is the Logical Operator ?]
--[ ] There is no answer to that!
+# কুইজ নংঃ ১
+?[কোনটি লজিকাল অপারেটর ?]
 -[ ] &
+-[ ] কোনটিই নয়!
 -[ ] ^^
 -[x] !
 
@@ -29,10 +30,10 @@ xor [XOr] | ~ [NOT]
  EMPTY | << [Shift left]
  EMPTY | >> [Shift right]
 
-@[Challenge - 1: Complete This Challenge ~ Answer is in Github Gist]({"stubs": ["Universe.php"], "command": "/bin/bash run.sh"})
+@[সমস্যা নংঃ ১ । চ্যালেঞ্জ গুলো কমপ্লিট করুন ~ উত্তর গিটহাবের এই গিষ্ট এ আছে ]({"stubs": ["Universe.php"], "command": "/bin/bash run.sh"})
 
 
-# Currently I'm Building this playground... on processing 
-
-## i'm gonna start create Challenge & Quiz from php core. In a words to help those who want to attend on MY PHP BOOTCAMP :D.
+# এই মুহুর্তে এই প্লে-গ্রাউন্ড আপডেট হচ্ছে, আপনিও যোগ দিতে পারেন যদি আপনি পিএসপি জানেন......
+ 
+## আরো কুইজ এবং সমস্যা তৈরি হচ্ছে। আপনার তৈ্রি করা সমস্যা ও কুইজ আপনি লিখতে পারেন রিপো তে। :D
 
