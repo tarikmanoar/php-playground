@@ -23,7 +23,7 @@
 -[ ] ^^
 -[x] !
 
-Logical Operator | Bitwise Operator
+লজিকাল অপারেটর | বিটওয়াইস অপারেটর
 ------------ | -------------
 && [AND] | & [AND]
 ! [NOT] | ^ [Xor (exclusive or)]
